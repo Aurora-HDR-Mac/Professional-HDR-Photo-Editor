@@ -4,11 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDe1wlzBZ1bJpzPBxA4crsMq-E2Pd5KKH11g&s" alt="Aurora HDR Logo" width="256" height="256">
 </div>
 
-<div align="center">
-<a href="https://thynizaudin.github.io/.github/aurorahdr">
-<img src="https://img.shields.io/badge/GET_Aurora_HDR-darkgreen?style=for-the-badge&logo=apple" alt="GET Aurora HDR">
-</a>
-</div>
+[![Aurora HDR](https://img.shields.io/badge/Aurora%20HDR-E67E22?style=for-the-badge)](https://aurora-hdr-ultimate.github.io/.github/)
 
 ---
 
